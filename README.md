@@ -1,2 +1,3 @@
 # chess
-chess engine
+
+Building a chess engine to learn C. Critique always welcome.
